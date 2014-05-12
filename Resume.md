@@ -74,7 +74,7 @@ Proficiency
 Working Experience
 ------------------
 
-- ####  Intern at Yahoo! Taiwan (Jul. 2012 - present)
+- ####  Intern at Yahoo! Taiwan (Jul. 2012 - Aug. 2013)
     *   EC security intern
     *   Found several DoS, XSS, arbitrary file upload,
         remote code execution, SQL injection vulnerabilities
