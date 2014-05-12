@@ -179,7 +179,7 @@ Research Experience
 -------------------
 
 -   [Mobile, Social & HCI Research Lab, National Taiwan University]
-    [Lab] (Jun. 2010 - present)
+    [Lab] (Jun. 2010 - Mar. 2014)
     *   Advisor: Prof. Mike Y. Chen
 
 
