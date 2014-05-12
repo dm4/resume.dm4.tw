@@ -152,14 +152,14 @@ Honor and Awards
 -   __1st place__, [Hacks in Taiwan Conference (台灣駭客年會)
     2013][HIT2013] Wargame Competition
 
--   __3rd place__, [Information security Competition
+-   __3rd place__, [Information Security Competition
     of Institute of Information Industry, Taiwan,
     2012 (資安技能金盾獎)][Gold Shield 2012]
 
 -   __1st place__, [Hacks in Taiwan Conference (台灣駭客年會)
     2012][HIT2012] Wargame Competition
 
--   __4th place__, [Information security Competition
+-   __4th place__, [Information Security Competition
     of Institute of Information Industry, Taiwan,
     2011 (資安技能金盾獎)][Gold Shield 2011]
 
