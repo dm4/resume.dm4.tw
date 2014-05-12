@@ -145,6 +145,10 @@ Project Experience
 Honor and Awards
 ----------------
 
+-   __1st place__, [Information Security Competition
+    of Institute of Information Industry, Taiwan,
+    2013 (資安技能金盾獎)][Gold Shield 2013]
+
 -   __1st place__, [Hacks in Taiwan Conference (台灣駭客年會)
     2013][HIT2013] Wargame Competition
 
@@ -212,6 +216,7 @@ Publications
 [UIST2011]:         http://www.acm.org/uist/uist2011/
 [Gold Shield 2011]: http://security.cisanet.org.tw/
 [Gold Shield 2012]: http://is.w18.noonspace.tw/main/modules/MySpace/index.php?sn=is&pg=ZC120
+[Gold Shield 2013]: https://security.cisanet.org.tw/
 [HIT2011]:          http://hitcon.org/2011
 [HIT2012]:          http://hitcon.org/2012
 [HIT2013]:          http://hitcon.org/2012
