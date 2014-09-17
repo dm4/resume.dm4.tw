@@ -97,6 +97,28 @@ Working Experience
 Project Experience
 ------------------
 
+#### Personal Projects
+
+-   [Mark2Deck][Mark2Deck]
+    *   Markdown to [deck.js][deck.js] html slide
+        converter, using `perl`.
+
+-   [vim-boshiamy][vim-boshiamy]
+    *   `vim` boshiamy IME implement.
+    *   Fork from [vimim][vimim].
+
+-   Facebook / Plurk session hijacking tool
+    *   Implement session hijacking for Facebook and
+        Plurk.
+    *   Parsing `tcpdump` logs using `perl` and save the
+        session tokens into `sqlite`.
+
+#### Android Projects
+
+-   [ContentProvider Analysis][contentprovider-androguard]
+    *   Static analysis scripts about ContentProvider using
+        [Androguard][androguard] framework.
+
 #### iOS Projects
 
 -   [我愛搭公車 iLoveBus][iLoveBus]
@@ -115,28 +137,6 @@ Project Experience
     *   myID AR uses 2D QR Code as the marker of
         Augmented Reality application to construct
         the social AR app.
-
-#### Android Projects
-
--   [ContentProvider Analysis][contentprovider-androguard]
-    *   Static analysis scripts about ContentProvider using
-        [Androguard][androguard] framework.
-
-#### Personal Projects
-
--   [Mark2Deck][Mark2Deck]
-    *   Markdown to [deck.js][deck.js] html slide
-        converter, using `perl`.
-
--   [vim-boshiamy][vim-boshiamy]
-    *   `vim` boshiamy IME implement.
-    *   Fork from [vimim][vimim].
-
--   Facebook / Plurk session hijacking tool
-    *   Implement session hijacking for Facebook and
-        Plurk.
-    *   Parsing `tcpdump` logs using `perl` and save the
-        session tokens into `sqlite`.
 
 
 ------------------------------------------------------------
