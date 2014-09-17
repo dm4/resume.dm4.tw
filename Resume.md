@@ -74,8 +74,14 @@ Proficiency
 Working Experience
 ------------------
 
+- ####  Yahoo! Taiwan (Mar. 2014 - present)
+    *   E-commerce (EC) software engineer
+    *   Trust & Safety team
+    *   Try to reduce fraud rate and improve fraud detection
+        in Yahoo! EC websites.
+
 - ####  Intern at Yahoo! Taiwan (Jul. 2012 - Aug. 2013)
-    *   EC security intern
+    *   E-commerce (EC) security intern
     *   Found several DoS, XSS, arbitrary file upload,
         remote code execution, SQL injection vulnerabilities
         in Yahoo! EC websites.
@@ -89,6 +95,48 @@ Working Experience
         regular expression, vim, internet settings,
         cron jobs, web server, shell script, firewall,
         system security.
+
+
+------------------------------------------------------------
+
+
+Honor and Awards
+----------------
+
+-   [Hacks in Taiwan Conference (台灣駭客年會) 2014][HIT2014]
+    Speaker, "AirPlay Screen Mirroring 的 Man-in-the-middle Attack"
+
+-   __2nd place__, [DEF CON 22 CTF 2014][DEF CON 22 CTF 2014]
+    (Team: HITCON)
+
+-   __8th place__, [SECUINSIDE 2014][SECUINSIDE 2014]
+    (Team: HITCON)
+
+-   __1st place__, [Information Security Competition
+    of Institute of Information Industry, Taiwan,
+    2013 (資安技能金盾獎)][Gold Shield 2013]
+
+-   __1st place__, [Hacks in Taiwan Conference (台灣駭客年會)
+    2013][HIT2013] Wargame Competition
+
+-   __3rd place__, [Information Security Competition
+    of Institute of Information Industry, Taiwan,
+    2012 (資安技能金盾獎)][Gold Shield 2012]
+
+-   __1st place__, [Hacks in Taiwan Conference (台灣駭客年會)
+    2012][HIT2012] Wargame Competition
+
+-   __4th place__, [Information Security Competition
+    of Institute of Information Industry, Taiwan,
+    2011 (資安技能金盾獎)][Gold Shield 2011]
+
+-   __3rd place__, [Hacks in Taiwan Conference (台灣駭客年會)
+    2011][HIT2011] Wargame Competition
+
+-   National Taiwan Unviersity Presidential Award __twice__
+    *   Spring 2009, Spring 2010
+    *   Highest honor for students with top 5%
+        academic ranking each semester.
 
 
 ------------------------------------------------------------
@@ -137,48 +185,6 @@ Project Experience
     *   myID AR uses 2D QR Code as the marker of
         Augmented Reality application to construct
         the social AR app.
-
-
-------------------------------------------------------------
-
-
-Honor and Awards
-----------------
-
--   [Hacks in Taiwan Conference (台灣駭客年會) 2014][HIT2014]
-    Speaker, "AirPlay Screen Mirroring 的 Man-in-the-middle Attack"
-
--   __2nd place__, [DEF CON 22 CTF 2014][DEF CON 22 CTF 2014]
-    (Team: HITCON)
-
--   __8th place__, [SECUINSIDE 2014][SECUINSIDE 2014]
-    (Team: HITCON)
-
--   __1st place__, [Information Security Competition
-    of Institute of Information Industry, Taiwan,
-    2013 (資安技能金盾獎)][Gold Shield 2013]
-
--   __1st place__, [Hacks in Taiwan Conference (台灣駭客年會)
-    2013][HIT2013] Wargame Competition
-
--   __3rd place__, [Information Security Competition
-    of Institute of Information Industry, Taiwan,
-    2012 (資安技能金盾獎)][Gold Shield 2012]
-
--   __1st place__, [Hacks in Taiwan Conference (台灣駭客年會)
-    2012][HIT2012] Wargame Competition
-
--   __4th place__, [Information Security Competition
-    of Institute of Information Industry, Taiwan,
-    2011 (資安技能金盾獎)][Gold Shield 2011]
-
--   __3rd place__, [Hacks in Taiwan Conference (台灣駭客年會)
-    2011][HIT2011] Wargame Competition
-
--   National Taiwan Unviersity Presidential Award __twice__
-    *   Spring 2009, Spring 2010
-    *   Highest honor for students with top 5%
-        academic ranking each semester.
 
 
 ------------------------------------------------------------
