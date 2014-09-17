@@ -145,6 +145,15 @@ Project Experience
 Honor and Awards
 ----------------
 
+-   [Hacks in Taiwan Conference (台灣駭客年會) 2014][HIT2014]
+    Speaker, "AirPlay Screen Mirroring 的 Man-in-the-middle Attack"
+
+-   __2nd place__, [DEF CON 22 CTF 2014][DEF CON 22 CTF 2014]
+    (Team: HITCON)
+
+-   __8th place__, [SECUINSIDE 2014][SECUINSIDE 2014]
+    (Team: HITCON)
+
 -   __1st place__, [Information Security Competition
     of Institute of Information Industry, Taiwan,
     2013 (資安技能金盾獎)][Gold Shield 2013]
@@ -220,6 +229,7 @@ Publications
 [HIT2011]:          http://hitcon.org/2011
 [HIT2012]:          http://hitcon.org/2012
 [HIT2013]:          http://hitcon.org/2012
+[HIT2014]:          http://hitcon.org/2014/agenda/
 [vimim]:            https://code.google.com/p/vimim/
 [vim-boshiamy]:     https://github.com/dm4/vim-boshiamy
 [CHI2013]:          http://chi2013.acm.org/
@@ -227,3 +237,5 @@ Publications
 [androguard]:       https://code.google.com/p/androguard/
 [contentprovider-androguard]: https://github.com/dm4/contentprovider-androguard
 [iRotateGrasp]:     http://dl.acm.org/citation.cfm?id=2380305
+[SECUINSIDE 2014]:  http://secuinside.com/2014/index.html
+[DEF CON 22 CTF 2014]: https://legitbs.net/2014/
