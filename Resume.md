@@ -123,12 +123,6 @@ Project Experience
     *   `vim` boshiamy IME implement.
     *   Fork from [vimim][vimim].
 
--   Facebook / Plurk session hijacking tool
-    *   Implement session hijacking for Facebook and
-        Plurk.
-    *   Parsing `tcpdump` logs using `perl` and save the
-        session tokens into `sqlite`.
-
 #### Android Projects
 
 -   [ContentProvider Analysis][contentprovider-androguard]
