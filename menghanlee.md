@@ -21,11 +21,11 @@ Eductation
 - ####  National Taiwan University, Taipei, Taiwan (Sep. 2011 - Mar. 2014)
     *   Department of Computer Science &
         Information Engineering
-    *   M.S. student
+    *   Master's Degree
 
 - ####  National Taiwan University, Taipei, Taiwan (Sep. 2007 - Jul. 2011)
     *   Department of Computer Science & Information Engineering
-    *   Bachelor
+    *   Bachelor's Degree
 
 
 Working Experience
