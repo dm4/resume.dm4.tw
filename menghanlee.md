@@ -12,7 +12,7 @@ permalink: /
 - [Github](http://github.com/dm4)
 - [Blog](http://blog.dm4.tw)
 - [Resume (html version)](http://resume.dm4.tw)
-- [Resume (plain text)](https://raw.githubusercontent.com/dm4/resume.dm4.tw/gh-pages/menghanlen.md)
+- [Resume (plain text)](https://raw.githubusercontent.com/dm4/resume.dm4.tw/gh-pages/menghanlee.md)
 
 
 Eductation
