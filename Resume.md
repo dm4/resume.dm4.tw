@@ -106,11 +106,6 @@ Honor and Awards
 -   __3rd place__, [Hacks in Taiwan Conference (台灣駭客年會)
     2011][HIT2011] Wargame Competition
 
--   National Taiwan Unviersity Presidential Award __twice__
-    *   Spring 2009, Spring 2010
-    *   Highest honor for students with top 5%
-        academic ranking each semester.
-
 
 ------------------------------------------------------------
 
