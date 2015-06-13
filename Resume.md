@@ -129,24 +129,6 @@ Project Experience
     *   Static analysis scripts about ContentProvider using
         [Androguard][androguard] framework.
 
-#### iOS Projects
-
--   [我愛搭公車 iLoveBus][iLoveBus]
-    *   A simple iOS app to get the arrival time
-        information of Taipei City and New Taipei
-        City bus.
-    *   Personal project.
-    *   The highest pageview reaches 10k per day.
-
--   [TUIC][TUIC]
-    *   TUIC, a technology that enables tangible
-        interaction on capacitive multi-touch devices.
-    *   iOS SDK development.
-
--   [myID+AR][myID AR]
-    *   myID AR uses 2D QR Code as the marker of
-        Augmented Reality application to construct
-        the social AR app.
 
 
 ------------------------------------------------------------
@@ -183,10 +165,7 @@ Publications
 
 ------------------------------------------------------------
 
-[TUIC]:             http://tuic.tw
 [Mark2Deck]:        https://github.com/dm4/Mark2Deck
-[iLoveBus]:         http://itunes.apple.com/il/app//id428918574?mt=8
-[myID AR]:          http://itunes.apple.com/us/app/myid%20ar/id432286892?mt=8
 [deck.js]:          http://imakewebthings.github.com/deck.js/
 [Lab]:              http://ntumobile.org
 [Clip-on]:          http://dl.acm.org/citation.cfm?id=2047243
