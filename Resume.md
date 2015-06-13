@@ -37,9 +37,6 @@ Eductation
     *   Department of Computer Science & Information Engineering
     *   Bachelor
 
-- ####  Taipei Municipal Jianguo High School, Taipei, Taiwan (Sep. 2004 - Jul. 2007)
-    *   Math and Science Gifted Class
-
 
 ------------------------------------------------------------
 
