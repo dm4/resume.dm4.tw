@@ -44,33 +44,6 @@ Eductation
 ------------------------------------------------------------
 
 
-Proficiency
------------
-
-- #### Programming Languages
-    -   C
-    -   Perl
-    -   Shell Script
-    -   Objective-C
-    -   Python
-    -   Java
-    -   HTML/CSS
-    -   Javascript
-    -   SQL
-    -   Vim Script
-
-- #### Skills
-    -   vim
-    -   git
-    -   Web Security
-    -   Web Programming
-    -   iOS Programming
-    -   Android Programming
-
-
-------------------------------------------------------------
-
-
 Working Experience
 ------------------
 
