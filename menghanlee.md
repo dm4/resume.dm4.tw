@@ -1,28 +1,18 @@
-% 李孟翰 Meng-Han Lee
+---
+title: Meng-Han Lee (dm4)
+layout: resume
+permalink: /
+---
 
+李孟翰．Meng-Han Lee (dm4)
+==========================
 
-------------------------------------------------------------
-
-
-Contact Info
-------------
 
 - <sunrisedm4@gmail.com>
-
-
-------------------------------------------------------------
-
-
-Links
------
-
 - [Github](http://github.com/dm4)
 - [Blog](http://blog.dm4.tw)
 - [Resume (html version)](http://resume.dm4.tw)
-- [Resume (plain text)](http://resume.dm4.tw/Resume.md)
-
-
-------------------------------------------------------------
+- [Resume (plain text)](https://raw.githubusercontent.com/dm4/resume.dm4.tw/gh-pages/menghanlen.md)
 
 
 Eductation
@@ -36,9 +26,6 @@ Eductation
 - ####  National Taiwan University, Taipei, Taiwan (Sep. 2007 - Jul. 2011)
     *   Department of Computer Science & Information Engineering
     *   Bachelor
-
-
-------------------------------------------------------------
 
 
 Working Experience
@@ -65,9 +52,6 @@ Working Experience
         regular expression, vim, internet settings,
         cron jobs, web server, shell script, firewall,
         system security.
-
-
-------------------------------------------------------------
 
 
 Honor and Awards
@@ -104,9 +88,6 @@ Honor and Awards
     2011][HIT2011] Wargame Competition
 
 
-------------------------------------------------------------
-
-
 Project Experience
 ------------------
 
@@ -135,18 +116,12 @@ Project Experience
     *   For Yahoo! Hack Day 2013
 
 
-------------------------------------------------------------
-
-
 Research Experience
 -------------------
 
 -   [Mobile, Social & HCI Research Lab, National Taiwan University]
     [Lab] (Jun. 2010 - Mar. 2014)
     *   Advisor: Prof. Mike Y. Chen
-
-
-------------------------------------------------------------
 
 
 Publications
@@ -166,8 +141,6 @@ Publications
     on Grasp of Mobile Devices][iRotateGrasp]", in
     Proceedings of [CHI 2013][CHI2013]
 
-
-------------------------------------------------------------
 
 [Mark2Deck]:        https://github.com/dm4/Mark2Deck
 [deck.js]:          http://imakewebthings.github.com/deck.js/
