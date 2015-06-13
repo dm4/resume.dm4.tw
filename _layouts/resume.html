@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <style>
     body {
       padding: 20px;
@@ -20,6 +21,11 @@
   <body>
     <div class="container">
       <div class="row">
+        {% capture content %}{{ content | replace: 'Email:',             '<i class="fa fa-envelope"></i>'    }}{% endcapture %}
+        {% capture content %}{{ content | replace: 'Github:',            '<i class="fa fa-github"></i>'      }}{% endcapture %}
+        {% capture content %}{{ content | replace: 'Blog:',              '<i class="fa fa-pencil"></i>'      }}{% endcapture %}
+        {% capture content %}{{ content | replace: 'Resume (html):',     '<i class="fa fa-html5"></i>'       }}{% endcapture %}
+        {% capture content %}{{ content | replace: 'Resume (markdown):', '<i class="fa fa-file-text-o"></i>' }}{% endcapture %}
         {{ content }}
       </div>
     </div>
