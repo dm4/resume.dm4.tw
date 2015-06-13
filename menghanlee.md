@@ -8,11 +8,15 @@ permalink: /
 ==========================
 
 
-- Email:  <sunrisedm4@gmail.com>
-- Github: [Github](http://github.com/dm4)
-- Blog:   [Blog](http://blog.dm4.tw)
-- Resume (html): [Resume (html)](http://resume.dm4.tw)
-- Resume (markdown): [Resume (markdown)](https://raw.githubusercontent.com/dm4/resume.dm4.tw/gh-pages/menghanlee.md)
+Email: <sunrisedm4@gmail.com>
+
+Github: [Github](http://github.com/dm4)
+
+Blog: [Blog](http://blog.dm4.tw)
+
+Resume (html): [Resume (html)](http://resume.dm4.tw)
+
+Resume (markdown): [Resume (markdown)](https://raw.githubusercontent.com/dm4/resume.dm4.tw/gh-pages/menghanlee.md)
 
 
 Eductation

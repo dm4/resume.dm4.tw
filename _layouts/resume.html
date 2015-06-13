@@ -16,17 +16,15 @@
     h2 {
       margin-top: 30px;
     }
+    i.fa-2x {
+      width: 28px;
+    }
   </style>
 </head>
   <body>
     <div class="container">
       <div class="row">
-        {% capture content %}{{ content | replace: 'Email:',             '<i class="fa fa-envelope"></i>'    }}{% endcapture %}
-        {% capture content %}{{ content | replace: 'Github:',            '<i class="fa fa-github"></i>'      }}{% endcapture %}
-        {% capture content %}{{ content | replace: 'Blog:',              '<i class="fa fa-pencil"></i>'      }}{% endcapture %}
-        {% capture content %}{{ content | replace: 'Resume (html):',     '<i class="fa fa-html5"></i>'       }}{% endcapture %}
-        {% capture content %}{{ content | replace: 'Resume (markdown):', '<i class="fa fa-file-text-o"></i>' }}{% endcapture %}
-        {{ content }}
+        {% include content.html %}{{ content }}
       </div>
     </div>
   </body>
