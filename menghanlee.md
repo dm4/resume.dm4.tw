@@ -108,7 +108,7 @@ Project Experience
 #### Android Projects
 
 -   [ContentProvider Analysis][contentprovider-androguard]
-    *   Static analysis scripts about ContentProvider using
+    *   Static analysis scripts about `ContentProvider` using
         [Androguard][androguard] framework.
 
 -   [AnnonaPK][AnnonaPK]
