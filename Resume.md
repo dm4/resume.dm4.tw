@@ -123,6 +123,10 @@ Project Experience
     *   `vim` boshiamy IME implement.
     *   Fork from [vimim][vimim].
 
+-   Reversing the AirPlay Mirroring
+    *   Successfully build my own AirPlay Mirroring server & client.
+    *   Give a talk at the [Hacks in Taiwan Conference (台灣駭客年會) 2014][HIT2014]
+
 #### Android Projects
 
 -   [ContentProvider Analysis][contentprovider-androguard]
