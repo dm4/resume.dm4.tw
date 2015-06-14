@@ -23,9 +23,11 @@ Eductation
 ----------
 
 - ####  National Taiwan University, Taipei, Taiwan (Sep. 2011 - Mar. 2014)
-    *   Department of Computer Science &
-        Information Engineering
+    *   Department of Computer Science & Information Engineering
     *   Master's Degree
+    *   __Thesis__
+        -   Display Security for Mobile Mirroring: Keyboard Logging Attack
+            by Visual Feedback
 
 - ####  National Taiwan University, Taipei, Taiwan (Sep. 2007 - Jul. 2011)
     *   Department of Computer Science & Information Engineering
