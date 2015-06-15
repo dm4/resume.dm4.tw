@@ -19,8 +19,8 @@ Resume (html): [Resume (html)](http://resume.dm4.tw)
 Resume (markdown): [Resume (markdown)](https://raw.githubusercontent.com/dm4/resume.dm4.tw/gh-pages/menghanlee.md)
 
 
-Eductation
-----------
+Education
+---------
 
 - ####  National Taiwan University, Taipei, Taiwan (Sep. 2011 - Mar. 2014)
     *   Department of Computer Science & Information Engineering
