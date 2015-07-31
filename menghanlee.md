@@ -37,7 +37,7 @@ Education
 Working Experience
 ------------------
 
-- ####  Yahoo! Taiwan (Mar. 2014 - present)
+- ####  Yahoo! Taiwan (Mar. 2014 - Jul. 2015)
     *   E-commerce (EC) software engineer
     *   Trust & Safety team
     *   Try to reduce fraud rate and improve fraud detection
