@@ -167,6 +167,6 @@ Publications
 [androguard]:       https://code.google.com/p/androguard/
 [contentprovider-androguard]: https://github.com/dm4/contentprovider-androguard
 [AnnonaPK]:         https://github.com/dm4/AnnonaPK
-[iRotateGrasp]:     http://dl.acm.org/citation.cfm?id=2380305
+[iRotateGrasp]:     http://dl.acm.org/citation.cfm?id=2479513
 [SECUINSIDE 2014]:  http://secuinside.com/2014/index.html
 [DEF CON 22 CTF 2014]: https://legitbs.net/2014/
