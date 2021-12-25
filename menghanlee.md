@@ -10,11 +10,11 @@ permalink: /
 
 Email: <sunrisedm4@gmail.com>
 
-Github: [Github](http://github.com/dm4)
+Github: [Github](https://github.com/dm4)
 
-Blog: [Blog](http://blog.dm4.tw)
+Blog: [Blog](https://blog.dm4.tw)
 
-Resume (html): [Resume (html)](http://resume.dm4.tw)
+Resume (html): [Resume (html)](https://resume.dm4.tw)
 
 Resume (markdown): [Resume (markdown)](https://raw.githubusercontent.com/dm4/resume.dm4.tw/gh-pages/menghanlee.md)
 
@@ -149,24 +149,24 @@ Publications
 
 
 [Mark2Deck]:        https://github.com/dm4/Mark2Deck
-[deck.js]:          http://imakewebthings.github.com/deck.js/
-[Lab]:              http://ntumobile.org
-[Clip-on]:          http://dl.acm.org/citation.cfm?id=2047243
-[UIST2011]:         http://www.acm.org/uist/uist2011/
-[Gold Shield 2011]: http://security.cisanet.org.tw/
-[Gold Shield 2012]: http://is.w18.noonspace.tw/main/modules/MySpace/index.php?sn=is&pg=ZC120
+[deck.js]:          https://imakewebthings.github.com/deck.js/
+[Lab]:              https://ntumobile.org
+[Clip-on]:          https://dl.acm.org/citation.cfm?id=2047243
+[UIST2011]:         https://www.acm.org/uist/uist2011/
+[Gold Shield 2011]: https://security.cisanet.org.tw/
+[Gold Shield 2012]: https://is.w18.noonspace.tw/main/modules/MySpace/index.php?sn=is&pg=ZC120
 [Gold Shield 2013]: https://security.cisanet.org.tw/
-[HIT2011]:          http://hitcon.org/2011
-[HIT2012]:          http://hitcon.org/2012
-[HIT2013]:          http://hitcon.org/2012
-[HIT2014]:          http://hitcon.org/2014/agenda/
+[HIT2011]:          https://hitcon.org/2011
+[HIT2012]:          https://hitcon.org/2012
+[HIT2013]:          https://hitcon.org/2012
+[HIT2014]:          https://hitcon.org/2014/agenda/
 [vimim]:            https://code.google.com/p/vimim/
 [vim-boshiamy]:     https://github.com/dm4/vim-boshiamy
-[CHI2013]:          http://chi2013.acm.org/
-[NTU CSIE Train]:   http://www.csie.ntu.edu.tw/train/
+[CHI2013]:          https://chi2013.acm.org/
+[NTU CSIE Train]:   https://www.csie.ntu.edu.tw/train/
 [androguard]:       https://code.google.com/p/androguard/
 [contentprovider-androguard]: https://github.com/dm4/contentprovider-androguard
 [AnnonaPK]:         https://github.com/dm4/AnnonaPK
-[iRotateGrasp]:     http://dl.acm.org/citation.cfm?id=2479513
-[SECUINSIDE 2014]:  http://secuinside.com/2014/index.html
+[iRotateGrasp]:     https://dl.acm.org/citation.cfm?id=2479513
+[SECUINSIDE 2014]:  https://secuinside.com/2014/index.html
 [DEF CON 22 CTF 2014]: https://legitbs.net/2014/
