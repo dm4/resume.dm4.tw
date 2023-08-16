@@ -37,6 +37,28 @@ Education
 Working Experience
 ------------------
 
+- ####  Second State (May. 2019 - 2023)
+    *   Software engineer & IT & DevOps
+    *   Help [WasmEdge][] implementation
+        - A lightweight, high-performance, and extensible WebAssembly runtime.
+        - One of the fastest WebAssembly VMs on the market (based on LLVM AOT)
+        - Support some WebAssembly proposals like: WASI, Reference Types, Component Model ...
+    *   Help [SOLL][] implementation
+        - A new compiler for generating [ewasm][] files from Solidity and Yul.
+        - Compile Solidity or Yul to LLVM IR
+        - Generate ewasm or EVM bytecode
+    *   Help [ParaState][] implementation
+        - Substrate-based blockchain project
+        - A stand-alone blockchain based on [frontier][]
+        - A parachain based on [cumulus][]
+
+- ####  Skymizer (Sep. 2015 - May. 2019)
+    *   Software engineer & IT & DevOps
+    *   Help to implement [Lity][]
+        -   Grammer extension from Solidity
+        -   Rule engine
+        -   Ethereum Native Interface (ENI)
+
 - ####  Yahoo! Taiwan (Mar. 2014 - Jul. 2015)
     *   E-commerce (EC) software engineer
     *   Trust & Safety team
@@ -170,3 +192,10 @@ Publications
 [iRotateGrasp]:     https://dl.acm.org/citation.cfm?id=2479513
 [SECUINSIDE 2014]:  https://secuinside.com/2014/index.html
 [DEF CON 22 CTF 2014]: https://legitbs.net/2014/
+[Lity]:             https://github.com/second-state/lity
+[SOLL]:             https://github.com/second-state/SOLL
+[ewasm]:            https://github.com/ewasm
+[WasmEdge]:         https://wasmedge.org
+[ParaState]:        https://www.parastate.io
+[frontier]:         https://github.com/paritytech/frontier
+[cumulus]:          https://github.com/paritytech/cumulus
