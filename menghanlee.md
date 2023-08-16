@@ -37,49 +37,46 @@ Education
 Working Experience
 ------------------
 
-- ####  Second State (May. 2019 - 2023)
-    *   Software engineer & IT & DevOps
-    *   Help [WasmEdge][] implementation
+- #### Second State (May 2019 - 2023)
+    * Software Engineer, IT & DevOps
+    * Contributed to the [WasmEdge][] implementation:
         - A lightweight, high-performance, and extensible WebAssembly runtime.
-        - One of the fastest WebAssembly VMs on the market (based on LLVM AOT)
-        - Support some WebAssembly proposals like: WASI, Reference Types, Component Model ...
-    *   Help [SOLL][] implementation
-        - A new compiler for generating [ewasm][] files from Solidity and Yul.
-        - Compile Solidity or Yul to LLVM IR
-        - Generate ewasm or EVM bytecode
-    *   Help [ParaState][] implementation
-        - Substrate-based blockchain project
-        - A stand-alone blockchain based on [frontier][]
-        - A parachain based on [cumulus][]
+        - One of the fastest WebAssembly VMs on the market (based on LLVM AOT).
+        - Supported various WebAssembly proposals, including: WASI, Reference Types, Component Model, etc.
+    * Assisted with the [SOLL][] implementation:
+        - A new compiler capable of generating [ewasm][] files from Solidity and Yul.
+        - Compiled Solidity or Yul to LLVM IR.
+        - Generated ewasm or EVM bytecode.
+    * Supported the [ParaState][] implementation:
+        - A Substrate-based blockchain project.
+        - A stand-alone blockchain based on [frontier][].
+        - A parachain based on [cumulus][].
 
-- ####  Skymizer (Sep. 2015 - May. 2019)
-    *   Software engineer & IT & DevOps
-    *   Help to implement [Lity][]
-        -   Grammer extension from Solidity
-        -   Rule engine
-        -   Ethereum Native Interface (ENI)
+- #### Skymizer (Sep. 2015 - May 2019)
+    * Software Engineer, IT & DevOps
+    * Assisted in the implementation of [Lity][]:
+        - Grammar extension from Solidity
+        - Rule engine
+        - Ethereum Native Interface (ENI)
 
 - ####  Yahoo! Taiwan (Mar. 2014 - Jul. 2015)
-    *   E-commerce (EC) software engineer
-    *   Trust & Safety team
-    *   Try to reduce fraud rate and improve fraud detection
-        in Yahoo! EC websites.
+    * E-commerce (EC) Software Engineer
+    * Member of the Trust & Safety Team
+    * Worked to reduce the fraud rate and improve fraud detection within Yahoo! EC websites.
+
 
 - ####  Intern at Yahoo! Taiwan (Jul. 2012 - Aug. 2013)
-    *   E-commerce (EC) security intern
-    *   Found several DoS, XSS, arbitrary file upload,
-        remote code execution, SQL injection vulnerabilities
-        in Yahoo! EC websites.
-    *   Help Yahoo! EC to improve web security.
+    * E-commerce (EC) Security Intern
+    * Discovered several vulnerabilities in Yahoo! EC websites, including DoS, XSS, arbitrary file upload, remote code execution, and SQL injection.
+    * Assisted Yahoo! EC in improving web security.
 
 - ####  Lecturer of Linux Class (Oct. 2011 - May. 2012)
-    *   In National Taiwan University, Department of
-        Computer Science & Information Engineering -
-        [資訊系統訓練班][NTU CSIE Train].
-    *   Basic knowledge of Linux, e.g. file system,
-        regular expression, vim, internet settings,
-        cron jobs, web server, shell script, firewall,
-        system security.
+    * Taught at National Taiwan University, Department of
+      Computer Science & Information Engineering - [資訊系統訓練班][NTU CSIE Train].
+    * Covered basic knowledge of Linux, including file systems,
+      regular expressions, vim, internet settings, cron jobs,
+      web servers, shell scripting, firewalls, and system security.
+
 
 
 Honor and Awards
