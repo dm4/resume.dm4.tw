@@ -114,26 +114,22 @@ Research Experience
 Publications
 ------------
 
-* Neng-Hao Yu, Sung-Sheng Tsai, I-Chun Hsiao,
-  Dian-Je Tsai, __Meng-Han Lee__, Mike Y. Chen,
-  Yi-Ping Hung, "[Clip-on gadgets: expanding multi-
-  touch interaction area with unpowered tactile
-  controls][Clip-on]", in Proceedings of [UIST 2011]
-  [UIST2011].
+* "[Clip-on gadgets: expanding multi-touch interaction area with unpowered tactile
+  controls][Clip-on]", in Proceedings of [UIST 2011][].
+  - Neng-Hao Yu, Sung-Sheng Tsai, I-Chun Hsiao, Dian-Je Tsai, __Meng-Han Lee__,
+    Mike Y. Chen, Yi-Ping Hung,
 
-* Lung-Pan Cheng, __Meng Han Lee__, Che-Yang Wu,
-  Fang-I Hsiao, Yen-Ting Liu, Hsiang-Sheng Liang,
-  Yi-Ching Chiu, Ming-Sui Lee, Mike Y. Chen, "[
-  iRotateGrasp: Automatic Screen Rotation based
-  on Grasp of Mobile Devices][iRotateGrasp]", in
-  Proceedings of [CHI 2013][CHI2013]
+* "[iRotateGrasp: Automatic Screen Rotation based on Grasp of Mobile Devices]
+  [iRotateGrasp]", in Proceedings of [CHI 2013][]
+  - Lung-Pan Cheng, __Meng Han Lee__, Che-Yang Wu, Fang-I Hsiao, Yen-Ting Liu,
+    Hsiang-Sheng Liang, Yi-Ching Chiu, Ming-Sui Lee, Mike Y. Chen,
 
 [blog.dm4.tw]:    https://blog.dm4.tw
 [Lab]:            https://ntuhci.org/
 [Clip-on]:        https://dl.acm.org/citation.cfm?id=2047243
 [iRotateGrasp]:   https://dl.acm.org/citation.cfm?id=2479513
-[UIST2011]:       https://www.acm.org/uist/uist2011/
-[CHI2013]:        https://chi2013.acm.org/
+[UIST 2011]:       https://www.acm.org/uist/uist2011/
+[CHI 2013]:        https://chi2013.acm.org/
 [NTU CSIE Train]: https://www.csie.ntu.edu.tw/train/
 [Gold Shield]:    https://csc.nics.nat.gov.tw
 [HIT2011]:        https://hitcon.org/2011
