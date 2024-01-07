@@ -1,45 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }}</title>
+  <title>Meng-Han Lee (dm4)</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <style>
     {% include bootstrap.min.css %}
-  </style>
-  <style>
-    body {
-      padding: 20px;
-    }
-    h1 {
-      margin-bottom: 30px;
-    }
-    h2 {
-      margin-top: 30px;
-    }
-    i.fa-2x {
-      width: 28px;
-    }
-    li h4 {
-      margin-bottom: 0px;
-    }
-    @media print {
-      body {
-        margin-top:    0cm;
-        margin-left:   1cm;
-        margin-right:  1cm;
-      }
-    }
+    {% include custom.css %}
   </style>
 </head>
-  <body>
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-          {% include content.html %}{{ content }}
-        </div>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+        {{ content }}
       </div>
     </div>
-  </body>
+  </div>
+</body>
+
 </html>

@@ -1,2 +1,1 @@
 exclude: ['CNAME', 'Gemfile', 'Gemfile.lock', 'README.md']
-keep_files: ['index.md']
